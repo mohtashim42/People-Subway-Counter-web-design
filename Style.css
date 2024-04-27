@@ -1,0 +1,76 @@
+body{
+    background-image:url("railway2.jpg");
+    background-size:cover;
+    /* position: relative; */
+    background-attachment: scroll; 
+} 
+div.increment{
+    top: 200px;
+    left: 590px;
+    width: 300px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center; 
+    position:absolute;
+}
+h1#count-el{
+    top: 235px;
+    left: 673px;
+    width: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    position:absolute;   
+}
+button.increment-id{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(184 191 63);
+    width: 250px;
+    height: 50px;
+    margin: auto;
+    border: 0.5 solid rgb(214, 191, 14);
+    top: 150px;
+    left: 575px;
+    /* width: 100px; */
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+}
+button.save-btn{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(132, 136, 110);
+    width: 250px;
+    height: 50px;
+    margin: auto;
+    border: 0.5 solid rgb(134, 124, 124);
+    top: 300px;
+    left: 575px;
+    /* width: 100px; */
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+}
+p#save-el{
+    top: 345px;
+    left: 590px;
+    width: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    position:absolute; 
+}
+/* h1#pc{
+    justify-content: center;
+    text-align: center;
+    top: 50%;
+} */
